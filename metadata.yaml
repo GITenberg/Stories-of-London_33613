@@ -1,0 +1,33 @@
+_repo: Stories-of-London_33613
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Bryant, Sophie (Sophie Willock)
+    alias: Bryant, Sophia
+    birthdate: 1850
+    deathdate: 1922
+    gutenberg_agent_id: '42147'
+    url: http://www.gutenberg.org/2009/agents/42147
+covers:
+- cover_type: archival
+  image_path: 33613-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Hoskyn, E. L. (Elizabeth Louisa)
+    alias: Hoskyn, Elizabeth Louisa
+    gutenberg_agent_id: '36498'
+    url: http://www.gutenberg.org/2009/agents/36498
+description: ''
+gutenberg_issued: '2010-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33613'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Juvenile literature'
+- !lcc 'DA'
+title: Stories of London
+url: http://www.gutenberg.org/ebooks/33613
